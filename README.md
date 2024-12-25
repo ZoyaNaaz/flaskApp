@@ -1,7 +1,7 @@
 # Run App
 
 '''
-python app.py
+  python app.py
 '''
 
 make sure to have Flask
