@@ -4,4 +4,4 @@
   python app.py
 ```
 
-#### make sure to have Flask
+#### make sure to have Flask installed
